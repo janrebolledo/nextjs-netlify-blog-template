@@ -16,7 +16,7 @@ export default function Index() {
             The Kaleb Meyer Blog<span className="fancy">.</span>
           </h1>
           <span className="handle">@thekalebmeyer</span>
-          <h2>Interviews, articles, reviews + more</h2>
+          <h2>Interviews, articles, reviews & more</h2>
           <SocialList />
         </div>
       </div>
