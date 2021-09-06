@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: janrebolledo/kalebmeyerblog
+  repo: janrebolledo/nextjs-netlify-blog-template
   branch: master
 media_folder: public/images
 public_folder: /images
