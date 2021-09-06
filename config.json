@@ -1,19 +1,19 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://kalebblog.netlify.app/",
+  "site_title": "The Kaleb Meyer Blog",
+  "site_description": "Interviews, articles, reviews & more",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Kaleb Meyer"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Blog"
     },
     {
-      "keyword": "React"
+      "keyword": "Journalist"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@thekalebmeyer",
+  "github_account": "janrebolledo"
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import Twitter from "../assets/twitter-alt.svg";
-import GitHub from "../assets/github-alt.svg";
+import Instagram from "../assets/instagram-alt.svg";
 import config from "../lib/config";
 
 export function SocialList({}) {
@@ -15,12 +15,12 @@ export function SocialList({}) {
         <Twitter width={24} height={24} fill={"#222"} />
       </a>
       <a
-        title="GitHub"
-        href={`https://github.com/${config.github_account}`}
+        title="Instagram"
+        href={`https://instagram.com/${config.instagram_account}`}
         target="_blank"
         rel="noopener"
       >
-        <GitHub width={24} height={24} fill={"#222"} />
+        <Instagram width={24} height={24} fill={"#222"} />
       </a>
       <style jsx>{`
         a {
