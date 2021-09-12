@@ -1,16 +1,16 @@
 {
-  "base_url": "https://kalebblog.netlify.app/",
+  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_title": "The Kaleb Meyer Blog",
   "site_description": "Interviews, articles, reviews & more",
   "site_keywords": [
     {
-      "keyword": "Kaleb Meyer"
+      "keyword": "The Kaleb Meyer"
     },
     {
       "keyword": "Blog"
     },
     {
-      "keyword": "Journalist"
+      "keyword": "Esports"
     }
   ],
   "posts_per_page": 5,

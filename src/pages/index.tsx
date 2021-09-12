@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            The Kaleb Meyer Blog<span className="fancy">.</span>
+            The Kaleb Meyer Blog.<span className="fancy">.</span>
           </h1>
           <span className="handle">@thekalebmeyer</span>
           <h2>Interviews, articles, reviews & more</h2>
